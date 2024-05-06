@@ -1,0 +1,7 @@
+name: DominionBalloons
+version: '${project.version}'
+main: com.unclecole.dominionballoons.DominionBalloons
+prefix: DominionBalloons
+authors: [ Cole ]
+commands:
+  balloon:
